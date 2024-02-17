@@ -1,0 +1,15 @@
+:root{
+  --radius:5px;
+  --shadow:0 0 10px rgb(173, 173, 173);
+  --bg:#95d1f1;
+}
+.quiz-app{
+  padding: 20px;
+
+}
+body{
+  width: 100vw;
+}
+.next-or-prev-button{
+  background-color: var(--bg);
+}
